@@ -7,20 +7,20 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class Signup extends AppCompatActivity {
-    private Button createacc;
+public class LoginActivity extends AppCompatActivity {
+    private Button sendOTP;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_signup);
+        setContentView(R.layout.activity_login);
 
         getSupportActionBar().hide();
 
-        createacc = findViewById(R.id.create_acc_btn);
-        createacc.setOnClickListener(new View.OnClickListener() {
+        sendOTP = findViewById(R.id.send_otp_btn);
+        sendOTP.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(Signup.this,LoginActivity.class));
+                startActivity(new Intent(LoginActivity.this,OTP.class));
             }
         });
     }

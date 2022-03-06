@@ -3,9 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Jatin Dhall/Desktop/Desktop File/CS/CS/Machine Learning/PROJECTS/Driver_Drowsiness_Detection1/Driver_Drowsiness_Detection_App/app/src/main/res/drawable/btn_round.xml" value="0.1305" />
+        <entry key="..\:/Users/Jatin Dhall/Desktop/Desktop File/CS/CS/Machine Learning/PROJECTS/Driver_Drowsiness_Detection1/Driver_Drowsiness_Detection_App/app/src/main/res/drawable/round_edt.xml" value="0.1305" />
+        <entry key="..\:/Users/Jatin Dhall/Desktop/Desktop File/CS/CS/Machine Learning/PROJECTS/Driver_Drowsiness_Detection1/Driver_Drowsiness_Detection_App/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/Jatin Dhall/Desktop/Desktop File/CS/CS/Machine Learning/PROJECTS/Driver_Drowsiness_Detection1/Driver_Drowsiness_Detection_App/app/src/main/res/layout/activity_login.xml" value="0.1234375" />
         <entry key="..\:/Users/Jatin Dhall/Desktop/Desktop File/CS/CS/Machine Learning/PROJECTS/Driver_Drowsiness_Detection1/Driver_Drowsiness_Detection_App/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
-        <entry key="..\:/Users/Jatin Dhall/Desktop/Desktop File/CS/CS/Machine Learning/PROJECTS/Driver_Drowsiness_Detection1/Driver_Drowsiness_Detection_App/app/src/main/res/layout/activity_signup.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Jatin Dhall/Desktop/Desktop File/CS/CS/Machine Learning/PROJECTS/Driver_Drowsiness_Detection1/Driver_Drowsiness_Detection_App/app/src/main/res/layout/activity_otp.xml" value="0.109375" />
+        <entry key="..\:/Users/Jatin Dhall/Desktop/Desktop File/CS/CS/Machine Learning/PROJECTS/Driver_Drowsiness_Detection1/Driver_Drowsiness_Detection_App/app/src/main/res/layout/activity_signup.xml" value="0.12" />
         <entry key="..\:/Users/Jatin Dhall/Desktop/Desktop File/CS/CS/Machine Learning/PROJECTS/Driver_Drowsiness_Detection1/Driver_Drowsiness_Detection_App/app/src/main/res/layout/activity_splash_screen.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Jatin Dhall/Desktop/Desktop File/CS/CS/Machine Learning/PROJECTS/Driver_Drowsiness_Detection1/Driver_Drowsiness_Detection_App/app/src/main/res/layout/fragment_camera.xml" value="0.1" />
+        <entry key="..\:/Users/Jatin Dhall/Desktop/Desktop File/CS/CS/Machine Learning/PROJECTS/Driver_Drowsiness_Detection1/Driver_Drowsiness_Detection_App/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Jatin Dhall/Desktop/Desktop File/CS/CS/Machine Learning/PROJECTS/Driver_Drowsiness_Detection1/Driver_Drowsiness_Detection_App/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
       </map>
     </option>
   </component>
