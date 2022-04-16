@@ -9,7 +9,7 @@
         <entry key="..\:/Users/Jatin Dhall/Desktop/Desktop File/CS/CS/Machine Learning/PROJECTS/Driver_Drowsiness_Detection1/Driver_Drowsiness_Detection_App/app/src/main/res/layout/activity_login.xml" value="0.1234375" />
         <entry key="..\:/Users/Jatin Dhall/Desktop/Desktop File/CS/CS/Machine Learning/PROJECTS/Driver_Drowsiness_Detection1/Driver_Drowsiness_Detection_App/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/Jatin Dhall/Desktop/Desktop File/CS/CS/Machine Learning/PROJECTS/Driver_Drowsiness_Detection1/Driver_Drowsiness_Detection_App/app/src/main/res/layout/activity_otp.xml" value="0.109375" />
-        <entry key="..\:/Users/Jatin Dhall/Desktop/Desktop File/CS/CS/Machine Learning/PROJECTS/Driver_Drowsiness_Detection1/Driver_Drowsiness_Detection_App/app/src/main/res/layout/activity_signup.xml" value="0.12" />
+        <entry key="..\:/Users/Jatin Dhall/Desktop/Desktop File/CS/CS/Machine Learning/PROJECTS/Driver_Drowsiness_Detection1/Driver_Drowsiness_Detection_App/app/src/main/res/layout/activity_signup.xml" value="0.2916666666666667" />
         <entry key="..\:/Users/Jatin Dhall/Desktop/Desktop File/CS/CS/Machine Learning/PROJECTS/Driver_Drowsiness_Detection1/Driver_Drowsiness_Detection_App/app/src/main/res/layout/activity_splash_screen.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/Jatin Dhall/Desktop/Desktop File/CS/CS/Machine Learning/PROJECTS/Driver_Drowsiness_Detection1/Driver_Drowsiness_Detection_App/app/src/main/res/layout/fragment_camera.xml" value="0.1" />
         <entry key="..\:/Users/Jatin Dhall/Desktop/Desktop File/CS/CS/Machine Learning/PROJECTS/Driver_Drowsiness_Detection1/Driver_Drowsiness_Detection_App/app/src/main/res/layout/fragment_profile.xml" value="0.16666666666666666" />
@@ -17,7 +17,7 @@
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_16_PREVIEW" project-jdk-name="16" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="16" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

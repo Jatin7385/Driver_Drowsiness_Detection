@@ -137,13 +137,13 @@ tools:context=".OTP">
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Already have an account?"
+                android:text="Didn't receive the OTP?"
                 android:textColor="#ffffff"
                 android:textSize="20sp"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Sign in"
+                android:text="Resend"
                 android:textColor="#0DF5E3"
                 android:textSize="20sp"/>
         </LinearLayout>

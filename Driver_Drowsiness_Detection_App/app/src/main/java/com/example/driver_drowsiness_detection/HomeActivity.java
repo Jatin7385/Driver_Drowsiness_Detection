@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.view.MenuItem;
+import android.widget.Toast;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
@@ -17,6 +18,8 @@ public class HomeActivity extends AppCompatActivity implements BottomNavigationV
         setContentView(R.layout.activity_home);
 
         getSupportActionBar().hide();
+
+        Toast.makeText(HomeActivity.this, "Login Successful", Toast.LENGTH_SHORT).show();
 
         bottomNavigationView = findViewById(R.id.bottom_nav);
         bottomNavigationView.setOnNavigationItemSelectedListener(this);

@@ -104,10 +104,11 @@ tools:context=".LoginActivity">
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Already have an account?"
+                android:text="Don't have an account yet?"
                 android:textColor="#ffffff"
                 android:textSize="20sp"/>
             <TextView
+                android:id="@+id/login_signin"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Sign in"

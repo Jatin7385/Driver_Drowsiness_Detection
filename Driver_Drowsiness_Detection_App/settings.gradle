@@ -14,3 +14,10 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Driver_Drowsiness_Detection"
 include ':app'
+
+include ':openCVLibrary343'
+
+include ':openCVLibrary343'
+include ':openCVLibrary343'
+include ':openCVLibrary343'
+include ':sdk'
